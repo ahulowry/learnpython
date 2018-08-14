@@ -4,8 +4,7 @@
 ## **作业要求**	
 
 ## **流程图**
-图片:![][avatar]
-[avatar]:https://www.processon.com/diagraming/5b71a26fe4b0edb75106ffa1
+![flow chart](images/flow.png)
 	
 ## **代码**
 ``` Python
