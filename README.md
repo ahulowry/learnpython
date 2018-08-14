@@ -4,7 +4,7 @@
 ## **作业要求**	
 
 ## **流程图**
-![flow chart](images/flow.png)
+![flow chart](./flow.png)
 	
 ## **代码**
 ``` Python
